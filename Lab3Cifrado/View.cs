@@ -15,7 +15,7 @@ namespace Lab3Cifrado
 {
     class View
     {
-        //COMPRESION usando metodo de transposicion
+        //COMPRESION usando metodo de transposicion por columna simple
         static string Compresion(string mensaje, string clave)
         {
             //Tamaño de la llave
