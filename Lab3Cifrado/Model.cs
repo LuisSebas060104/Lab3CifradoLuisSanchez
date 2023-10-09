@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Lab3Cifrado
 {
+    //Clase persona
     class Model
     {
         public class Persona
